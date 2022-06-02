@@ -1,0 +1,19 @@
+[submodule "Happy/vendor/GLFW"]
+	path = Happy/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+	ignore = untracked
+[submodule "Happy/vendor/glm"]
+	path = Happy/vendor/glm
+	url = https://github.com/g-truc/glm
+	ignore = untracked
+[submodule "Happy/vendor/spdlog"]
+	path = Happy/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+	ignore = untracked
+[submodule "Happy/vendor/imgui"]
+	path = Happy/vendor/imgui
+	url = https://github.com/TheCherno/imgui
+	ignore = untracked
+[submodule "Happy/vendor/yaml-cpp"]
+	path = Happy/vendor/yaml-cpp
+	url = https://github.com/TheCherno/yaml-cpp

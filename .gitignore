@@ -1,0 +1,14 @@
+# Binaries
+**/bin/
+bin-int/
+
+# Happy files
+*.log
+
+# Visual Studio files and folder
+.vs/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
